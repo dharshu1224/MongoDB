@@ -323,3 +323,17 @@ db.products.aggregate([
 Count of products in each category
 
 Display the results using aggregate().
+
+### Output:
+
+<img width="1919" height="778" alt="image" src="https://github.com/user-attachments/assets/7ab60f3d-34f0-4d10-9e66-b0b3f3b6e1c8" />
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/f67801ff-2b34-44f9-bb63-d832640fd85b" />
+
+<img width="1919" height="1198" alt="image" src="https://github.com/user-attachments/assets/c28c717f-84e7-4605-9201-0699bbe475ce" />
+
+### Result:
+
+ CRUD (Create, Read, Update, Delete) operations and advanced MongoDB queries on a Products collection, including conditional filtering, array-based searches, logical operators, regular expressions, sorting, skipping, and aggregation functions to manage and analyze product data effectively executed sucessfully.
+
+
